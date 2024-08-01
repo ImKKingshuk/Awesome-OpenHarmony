@@ -2,7 +2,7 @@
 
 <p align="center">Welcome to the Awesome-OpenHarmony repository! This is a curated list of awesome resources, libraries, tools, and more for developers working with OpenHarmony and HarmonyOS. Contributions are welcome to help make this repository a comprehensive guide for all things OpenHarmony.</p>
 
-![HyperOS Logo](/OpenHarmony.png)
+![OpenHarmony Logo](/OpenHarmony.png)
 
 ## Table of Contents
 
