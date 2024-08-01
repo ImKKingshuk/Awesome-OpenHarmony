@@ -1,19 +1,20 @@
-# Awesome-OpenHarmony
+<h1 align="center">Awesome-OpenHarmony</h1>
 
-Welcome to the **Awesome-OpenHarmony** repository! This is a curated list of awesome resources, libraries, tools, and more for developers working with OpenHarmony and HarmonyOS. Contributions are welcome to help make this repository a comprehensive guide for all things OpenHarmony.
+<p align="center">Welcome to the Awesome-OpenHarmony repository! This is a curated list of awesome resources, libraries, tools, and more for developers working with OpenHarmony and HarmonyOS. Contributions are welcome to help make this repository a comprehensive guide for all things OpenHarmony.</p>
+
+![HyperOS Logo](/OpenHarmony.png)
 
 ## Table of Contents
 
-- [Awesome-OpenHarmony](#awesome-openharmony)
-  - [Table of Contents](#table-of-contents)
-  - [Introduction](#introduction)
-  - [Official Resources](#official-resources)
-  - [Development Tools](#development-tools)
-  - [Libraries](#libraries)
-  - [Community Projects](#community-projects)
-  - [Tutorials and Guides](#tutorials-and-guides)
-  - [Articles and News](#articles-and-news)
-  - [Contributing](#contributing)
+- [Table of Contents](#table-of-contents)
+- [Introduction](#introduction)
+- [Official Resources](#official-resources)
+- [Development Tools](#development-tools)
+- [Libraries](#libraries)
+- [Community Projects](#community-projects)
+- [Tutorials and Guides](#tutorials-and-guides)
+- [Articles and News](#articles-and-news)
+- [Contributing](#contributing)
 
 ## Introduction
 
